@@ -49,3 +49,8 @@ p  {
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
+
+footer {
+	text-align: right;
+	background: #fff;
+}
