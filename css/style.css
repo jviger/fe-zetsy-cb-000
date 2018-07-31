@@ -71,3 +71,12 @@ header a:hover {
 .small {
       font-size: 0.8em;
 }
+
+#about a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#about a:hover {
+	text-decoration: underline;
+}
