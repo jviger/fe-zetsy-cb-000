@@ -67,3 +67,8 @@ header a:hover {
 #banner img {
       border: 5px rgb(152,173,166) solid;
 }
+
+.small {
+      font-size: 0.8em;
+}
+}
